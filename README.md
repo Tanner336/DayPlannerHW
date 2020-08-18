@@ -1,4 +1,4 @@
-# DayPlannerHW
+# DayPlanner
 
 https://tanner336.github.io/DayPlannerHW/
 
@@ -13,3 +13,9 @@ The save button on each hour is functional and is what is used to save the to do
 
 ![Dayplanner-screenshot](.\assets\dayplanner.png)
 ![Dayplanner-gif](.\assets\dayplanner.gif)
+
+Uses:
+HTML
+CSS
+Javascript
+
