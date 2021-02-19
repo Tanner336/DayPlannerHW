@@ -11,10 +11,10 @@ You may add items to the Day Planner via the boxes provided in each hour and it 
 
 The save button on each hour is functional and is what is used to save the to do item to your local storage.
 
-![Dayplanner-screenshot](.\assets\dayplanner.png)
-![Dayplanner-screenshot](.\assets\dayplanner2.png)
+![Dayplanner-screenshot](./assets/dayplanner.png)
+![Dayplanner-screenshot](./assets/dayplanner2.png)
 
-![Dayplanner-gif](.\assets\dayplanner.gif)
+![Dayplanner-gif](./assets/dayplanner.gif)
 
 Uses:
 HTML
